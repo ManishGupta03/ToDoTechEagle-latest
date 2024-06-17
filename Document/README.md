@@ -27,37 +27,44 @@ and incorporating authentication sessions for user management.
 
 ## Outputs
    # RegisterPage
-   ![register](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/a5290b1b-5fc6-4a7c-8381-a218409e5cb5)
+   ![register](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/e4f35007-1a7c-4d32-864e-1e7e9de49052)
+
 
    # LoginPage
-   ![LoginPage](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/a16a3a1b-989e-439f-929e-612ae509e272)
+   ![LoginPage](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/d2389378-51e4-4f5e-b58e-33599a662063)
+
 
    # AuthenticatedPage
-   ![ifYouAreAuthenticated1](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/67e047b0-bc02-41f6-b694-3fcdbe5023ee)
+  ![ifYouAreAuthenticated1](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/51cabe29-3bec-4e20-a58c-f20d0bb29894)
+
 
    # AddToDo
-   ![addTODO](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/de08b734-3a7e-477e-b3e8-7c7d4bb16a52)
+  ![addTODO](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/7f54c663-bbd1-4125-a4bc-545596f4931c)
+
 
    # StartTodo
-   ![StartTodo](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/34437af8-82f1-447e-8fd8-b935f987cb5a)
+  ![StartTodo](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/f489d8d8-8ac4-49df-a263-73e9556a88bd)
 
    # PausedTodo
-   ![PausedTodo](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/22199149-adb0-4ede-9e29-51b80dc464a1)
-
+   ![PausedTodo](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/30e61f93-00ad-47a6-b7e2-e87c970c882a)
+  
    # EndTodo
-   ![endTodo](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/d5b77cc9-8ce9-40aa-b0a4-0f4f41408644)
+  ![endTodo](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/6cbcc950-fa3e-4b97-ab03-5e254b295ec8)
+
 
    # UpdateTodo
-   ![UpdateTODO](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/46da2d16-e68c-4a62-bc9d-2e978ef68b3f)
+   ![UpdateTODO](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/d2675f65-d407-40e6-a24b-dac33a3e7b7f)
 
    # ActivityDetails
-   ![ActivityDetails](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/97b2e4ec-8981-42ce-8c57-84b9af48280e)
+  ![ActivityDetails](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/43843501-9210-49e2-815b-ade919d1fcf0)
+
 
    # DeleteTodo
-   ![DeleteTodo](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/073cd85a-d79c-4693-9bf3-b746e558298a)
+   ![DeleteTodo](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/cc3b6cbd-c69d-4bfd-9e6f-dbde9691cdc0)
+
 
    # NotAuthenticated
-   ![notAuthenticated](https://github.com/ManishGupta03/ToDoLatest/assets/117648576/260a23cf-6cd1-4795-bf6c-ec04814f1555)
+ ![notAuthenticated](https://github.com/ManishGupta03/ToDoTechEagle-latest/assets/117648576/e90bcfac-de65-4c3f-9942-db200aec8d19)
 
 
 ## MongoDB Atlas Link
